@@ -1,0 +1,18 @@
+# Problem Set 9, Problem 0 --- ps9pr0
+
+# Reading and Response
+
+# Gagandeep Kang, gskang@bu.edu
+
+
+
+I agree with the authors on the conference paper that point out the benefits for the
+medical and legal fields. Pivot searching becomes a method that aids in efficiency
+of searches for professionals. This is because no longer are they tasked with
+tediously sifting through data but instead can quickly access such information. I believe the implications for pivot searching can
+also stretch to businesses when they are provided with extensive documents of data and
+need a more time-effective way of interpreting individual data bits. The only concern
+is the one that was mentioned in the article: privacy. How can these creators
+ensure that once an individual's data is imported, it's not at risk of being
+manipulated. In a world that yearns for my technological innovation, we have to create
+methods to protect our personal information. 
